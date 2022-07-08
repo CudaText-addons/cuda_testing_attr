@@ -1,0 +1,12 @@
+[info]
+title=t2
+desc=(Fill the description)
+type=cudatext-plugin
+subdir=cuda_t2
+homepage=(Fill the GitHub repo URL)
+
+[item2]
+section=commands
+caption=t2
+method=run
+
